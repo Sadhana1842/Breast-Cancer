@@ -1,6 +1,6 @@
 # Breast-Cancer
 Project Description:
-Certainly, Sadhana. The process of classifying mammography images using Convolutional Neural Networks (CNN) and Transfer Learning architectures involves employing sophisticated models such as VGG16, VGG19, ResNet50, and MobileNet. These models are pre-trained on large datasets to capture complex features and patterns, making them well-suited for image classification tasks.
+The process of classifying mammography images using Convolutional Neural Networks (CNN) and Transfer Learning architectures involves employing sophisticated models such as VGG16, VGG19, ResNet50, and MobileNet. These models are pre-trained on large datasets to capture complex features and patterns, making them well-suited for image classification tasks.
 
 To enhance the mammography images, Contrast Limited Adaptive Histogram Equalization (CLAHE) is applied. This technique improves the contrast of the images, making it easier for the neural networks to identify and learn relevant features. CLAHE is particularly useful in medical imaging as it enhances the visibility of subtle details, which is crucial for accurate diagnosis.
 
