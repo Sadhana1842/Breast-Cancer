@@ -7,5 +7,5 @@ To enhance the mammography images, Contrast Limited Adaptive Histogram Equalizat
 The implementation also integrates the OpenCV library, a powerful computer vision library. OpenCV is utilized for contouring and identifying tumor regions in the mammography images. Contouring helps in outlining the boundaries of objects in the image, and in this case, it aids in identifying and delineating tumor regions. This step is vital for precise localization of abnormalities within the images.
 
 By combining these techniques and technologies, the classification system can effectively analyze mammography images, providing valuable insights for medical professionals in the detection and diagnosis of potential abnormalities such as tumors. The transfer learning aspect enables the model to leverage knowledge gained from pre-training on large datasets, making it more adept at handling complex medical image classification tasks. Overall, this integrated approach demonstrates the synergy between deep learning, image enhancement, and computer vision in the context of medical image analysis.
-
-
+ 
+The data used is from Kaggle : [https://www.kaggle.com/datasets/debjeetdas/breast-cancer-jpg-image-dataset-of-cbisddsm](https://www.kaggle.com/datasets/debjeetdas/breast-cancer-jpg-image-dataset-of-cbisddsm)https://www.kaggle.com/datasets/debjeetdas/breast-cancer-jpg-image-dataset-of-cbisddsm
